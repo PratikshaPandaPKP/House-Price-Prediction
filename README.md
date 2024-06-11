@@ -24,4 +24,4 @@ Post-training, the models' predictions are compared against the actual values to
 
 **Additional Context:**
 
-This analysis was completed in March 2023 during the second semester of my MS in Data Science program as an assignment.
+This analysis was completed in March 2023 during the second semester of my MS in Data Science program as an assignment. The project involved an in-depth exploration of advanced machine learning techniques and statistical models, demanding a high level of analytical proficiency and practical application of theoretical concepts. This project not only solidified my understanding of complex data science methodologies but also significantly contributed to my academic and professional development in the field.
